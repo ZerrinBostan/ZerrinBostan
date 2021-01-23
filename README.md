@@ -11,7 +11,7 @@
  #### Experience
 - 👩‍💻 Frontend Developer at **Bermuda Technology** - Remote\
   📆 Oct 2020  - Continues\
-:sparkles: I am currently working in a technology company that also provides solutions to corporate companies in the America. 
+:sparkles: I'm currently working in a technology company that also provides solutions to corporate companies in the America. 
 
 - 👩‍💻 Junior Frontend Developer at **90Pixel** - Freelancer\
 📆 March 2019 - Sep 2020\
