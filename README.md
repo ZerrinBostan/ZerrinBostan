@@ -1,7 +1,7 @@
 # Hello to everyone :sun_with_face:
 
 - :ear_of_rice: I'm Zerrin. 
-- :computer: I'm Junior Frontend Developer who want to learn the frontend field in depth.
+- :computer: I'm Frontend Developer who want to learn the frontend field in depth.
 - :snowflake: Areas of interest:  JavaScript, React.js, Next.js, Context API, Redux, Mobx, Sass, Styled Components,  ES6+
 - 📫 How to reach me: <a href='mailto:zerrinbstn@gmail.com'>zerrinbstn@gmail.com</a>, [linkedin](https://www.linkedin.com/in/zerrin-bostan-b16aab166/) or [Twitter](https://twitter.com/ztkray) 
 
