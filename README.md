@@ -1,32 +1,13 @@
-# Hello to everyone :sun_with_face:
 
-- :ear_of_rice: I'm Zerrin. 
-- :computer: I'm Frontend Developer who want to learn the frontend field in depth.
-- :snowflake: Areas of interest:  JavaScript, React.js, Next.js, Context API, Redux, Mobx, Sass, Styled Components,  ES6+
-- 📫 How to reach me: <a href='mailto:zerrinbstn@gmail.com'>zerrinbstn@gmail.com</a>, [linkedin](https://www.linkedin.com/in/zerrin-bostan-b16aab166/) or [Twitter](https://twitter.com/ztkray) 
+## Hello, this is **Zerrin Tepedelen**
+I'm a Front-end Developer, skilled in building dynamic web applications with modern JavaScript frameworks. Passionate about creating seamless user experiences and learning new technologies.
 
-<details>
-  <summary>📃 My Resume</summary>
-  
- #### Experience
-- 👩‍💻 Frontend Developer at **Bermuda Technology** - Remote\
-  📆 Oct 2020  - Continues\
-:sparkles: I'm currently working in a technology company that also provides solutions to corporate companies in the America. 
+**For More Details** 
+[![Bento](https://img.shields.io/badge/-bento.me/zerrintepedelen-black?style=flat-square&logo=bento&logoColor=white)](https://bento.me/zerrintepedelen) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=internet-explorer&logoColor=white)](https://www.zerrintepedelen.com/) [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ztkray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zerrin-tepedelen-b16aab166/) [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@zerrinbstn)
 
-- 👩‍💻 Junior Frontend Developer at **90Pixel** - Freelancer\
-📆 March 2019 - Sep 2020\
-:sparkles: I have worked in 90Pixel as an intern front-end developer for 1 year. Then I continued as an outsourcing employee. I learnt many frontend technologies which are React, Next.js, Context API, Mobx, Redux, Sass, Bootstrap, Reactstrap, Yarn. I have experienced these technologies in projects used by more than 1000 people.
-
- #### Education and Courses
- - 👩‍💻 Kodluyoruz Frontend Web Development Bootcamp\
-📆 June 2020 - Aug 2020\
-:sparkles: JavaScript, React, Webpack, Babel, Prettier, Redux, Type Safety(Typescript vs Flow)
-
- - 👩‍💻 Advanced React Concepts Workshop,  Developer Circles from Facebook \
- 📆 Dec 2019\
- :sparkles: React, Redux, React Hooks
-
-
-<!--## Skills
-
-</details>
+**Languages, Technologies and Tools I use**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,ts,react,vue,next,nuxt,vite,sass,bootstrap,styledcomponents,tailwind,redux,pinia,firebase,supabase,netlify,vercel,figma" />
+  </a>
+</p>
